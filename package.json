@@ -1,0 +1,11 @@
+{
+  "name": "anagrams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jazael/anagrams.git",
+  "author": "Miguel Faubla",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
