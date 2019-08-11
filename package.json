@@ -5,6 +5,10 @@
   "repository": "https://github.com/jazael/anagrams.git",
   "author": "Miguel Faubla",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^24.8.0"
   }
